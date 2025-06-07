@@ -1,4 +1,7 @@
-package br.com.code.codechella;
+package br.com.code.codechella.Dto;
+
+import br.com.code.codechella.Tipagem.TipoEvento;
+import br.com.code.codechella.Class.Evento;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package br.com.code.codechella;
+package br.com.code.codechella.Tipagem;
 
 public enum TipoEvento {
     SHOW,

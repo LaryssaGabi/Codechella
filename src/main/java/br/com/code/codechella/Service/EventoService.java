@@ -1,5 +1,8 @@
-package br.com.code.codechella;
+package br.com.code.codechella.Service;
 
+import br.com.code.codechella.Tipagem.TipoEvento;
+import br.com.code.codechella.Repository.EventoRepository;
+import br.com.code.codechella.Dto.EventoDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

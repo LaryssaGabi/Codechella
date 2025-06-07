@@ -1,5 +1,6 @@
-package br.com.code.codechella;
+package br.com.code.codechella.Class;
 
+import br.com.code.codechella.Tipagem.TipoEvento;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;
 
